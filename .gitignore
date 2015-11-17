@@ -1,6 +1,7 @@
 # Binaries
 *.exe
 *.o
+*.dll
 
 # Generated images/videos
 *.png

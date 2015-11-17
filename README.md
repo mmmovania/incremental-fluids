@@ -1,5 +1,11 @@
 ![Fluid](https://raw.github.com/tunabrain/incremental-fluids/master/Header.png)
 
+Incremental fluids (Freeglut version)
+=====================================
+This is freeglut version of incremental fluids which removes dependency on loadpng and directly renders fluids using freeglut. Freeglut is already included with the package so you simply need to open the visual studio solution and run it. I have removed several memory leaks mainly due to lack of destructors.
+
+Original readme starts here
+----------------------------
 Incremental fluids
 ==================
 
